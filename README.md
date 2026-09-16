@@ -35,14 +35,14 @@
 ```js
 // ~/anuradhapura/night-shift/profile.js  ·  refreshed 2026.09
 const me = {
-  handle: "DarkHYPER",                                // github.com/DarkLegendHyper
-  name: "D.S.S. Karunarathna",                        // he / him
-  class: "Frontend Mage ⚡",                          // Vue · Nuxt · React · Tailwind
-  side: "Bot Smith 🌙",                               // Baileys + Gemini API bots
-  locale: "Anuradhapura, Sri Lanka 🇱🇰",               // UTC+05:30 · moon hours
-  hobbies: "programming, reading, gaming, music",     // all after midnight
+  handle: "DarkHYPER",                                
+  name: "D.S.S. Karunarathna",                        
+  class: "Frontend Mage ⚡",                          
+  side: "Bot Smith 🌙",                               
+  locale: "Anuradhapura, Sri Lanka 🇱🇰",               
+  hobbies: "programming, reading, gaming, music",     
   vibe: "cute on the surface, neon in the terminal",  
-  sleep: false,                                       // reclaimed by the compiler
+  sleep: false,                                       
 };
 ```
 
@@ -91,7 +91,6 @@ const me = {
 | 🌸 **SakuraMD-Media** | new this week — media + markdown playground, still blooming | <a href="https://github.com/DarkLegendHyper/SakuraMD-Media"><img alt="pushed" src="https://img.shields.io/github/last-commit/DarkLegendHyper/SakuraMD-Media?style=flat-square&label=pushed&color=5BE1FF&labelColor=161027&logo=git&logoColor=5BE1FF" /> <img alt="size" src="https://img.shields.io/github/repo-size/DarkLegendHyper/SakuraMD-Media?style=flat-square&label=size&color=A78BFA&labelColor=161027&logo=package&logoColor=A78BFA" /></a> |
 | 🎤 **VoiceReply-Bot** | JS bot that listens, then answers out loud | <a href="https://github.com/DarkLegendHyper/VoiceReply-Bot"><img alt="stars" src="https://img.shields.io/github/stars/DarkLegendHyper/VoiceReply-Bot?style=flat-square&label=stars&color=FFD166&labelColor=161027&logo=githubstars&logoColor=FFD166" /> <img alt="code" src="https://img.shields.io/github/languages/DarkLegendHyper/VoiceReply-Bot?style=flat-square&label=code&color=FF7AB6&labelColor=161027&logo=javascript&logoColor=FF7AB6" /></a> |
 | ✨ **Gemini-Ai** | chat bot on Google's Gemini Pro API — answers, code, ideas | <a href="https://github.com/DarkLegendHyper/Gemini-Ai"><img alt="pushed" src="https://img.shields.io/github/last-commit/DarkLegendHyper/Gemini-Ai?style=flat-square&label=pushed&color=5BE1FF&labelColor=161027&logo=git&logoColor=5BE1FF" /> <img alt="code" src="https://img.shields.io/github/languages/DarkLegendHyper/Gemini-Ai?style=flat-square&label=code&color=FF7AB6&labelColor=161027&logo=javascript&logoColor=FF7AB6" /></a> |
-| 💫 **A17** | WhatsApp multi-device bot built on Miku + Baileys | <a href="https://github.com/DarkLegendHyper/A17"><img alt="stars" src="https://img.shields.io/github/stars/DarkLegendHyper/A17?style=flat-square&label=stars&color=FFD166&labelColor=161027&logo=githubstars&logoColor=FFD166" /> <img alt="fork" src="https://img.shields.io/github/forks/DarkLegendHyper/A17?style=flat-square&label=fork&color=A78BFA&labelColor=161027&logo=git&logoColor=A78BFA" /></a> |
 | ˖ ° **this profile** | the repo you're reading right now | <a href="https://github.com/DarkLegendHyper/DarkLegendHyper"><img alt="thanks for the star" src="https://img.shields.io/github/stars/DarkLegendHyper/DarkLegendHyper?style=flat-square&label=thanks%20for%20the%20star&color=FF7AB6&labelColor=161027&logo=githubstars&logoColor=FF7AB6" /></a> |
 
 <sub>badge numbers come straight from the GitHub API, so this table never goes stale ˗ˏˋ ♡ ˎˊ</sub>
