@@ -33,7 +33,6 @@
 </p>
 
 ```js
-// ~/anuradhapura/night-shift/profile.js  ·  refreshed 2026.09
 const me = {
   handle: "DarkHYPER",                                
   name: "D.S.S. Karunarathna",                        
