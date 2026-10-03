@@ -9,7 +9,7 @@
 
 <h1 align="center">˖ ° ✧ ᴅ ꜱ ꜱ · K A R U N A R A T H N A ✧ ° ˖</h1>
 
-<h3 align="center">❀ <b>DarkHYPER</b> — anime-shaped brain, neon-tinted keyboard ❀</h3>
+<h3 align="center">❀ <b>DarkHYPER</b>  </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=850&random=false&color=FF7AB6&center=true&vCenter=true&width=800&height=68&lines=%CB%96%20%C2%B0%20Konnichiwa%2C%20I%27m%20D.S.S.%20Karunarathna%20%E2%9C%A7%20%28%EF%BD%A1%E2%80%A2%E1%B4%97-%29_%3BDarkHYPER%20%E2%8B%86%20frontend%20%26%20bots%2C%20mostly%20at%20night%20%E2%9A%A1%3BVue%20%E2%9C%A6%20Nuxt%20%20React%20%E2%9C%A6%20Flutter%20%E2%9C%A6%20Node.js%20%E2%9C%A6%20Python%3Bbuilding%20WhatsApp%20bots%20with%20Baileys%20%2B%20Gemini%20API%20%F0%9F%8C%99%3BAnuradhapura%2C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0%20%C2%B7%20UTC%2B05%3A30%3Bcute%20on%20the%20surface%2C%20neon%20in%20the%20terminal%20%CB%97%CB%8F%CB%8B%20%E2%99%A1%20%CB%8E%CB%8A%CB%97" alt="intro typing animation" />
@@ -47,7 +47,7 @@ const me = {
 
 > [!NOTE]
 > **whoami → normal person, extra carefully.** I build things at night, break them politely, then ship
-> the fix before sunrise ⋆｡ ✧ New for 2026: **SakuraMD-Media** 🌸 and voice replies for my bots.
+> the fix before sunrise ⋆｡ ✧ New for 2026: **SakuraMD** 🌸 and voice replies for my bots.
 
 <p align="center"><img src="assets/divider.png" width="900" alt="" /></p>
 
