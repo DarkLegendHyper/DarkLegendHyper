@@ -83,18 +83,6 @@ const me = {
 
 <p align="center"><img src="assets/divider.png" width="900" alt="" /></p>
 
-<h2 align="center">🌸 &nbsp;2026&nbsp;build&nbsp;log&nbsp; ❀</h2>
-
-| repo | what it is | live stats |
-|:--|:--|:--|
-| 🌸 **SakuraMD-Media** | new this week — media + markdown playground, still blooming | <a href="https://github.com/DarkLegendHyper/SakuraMD-Media"><img alt="pushed" src="https://img.shields.io/github/last-commit/DarkLegendHyper/SakuraMD-Media?style=flat-square&label=pushed&color=5BE1FF&labelColor=161027&logo=git&logoColor=5BE1FF" /> <img alt="size" src="https://img.shields.io/github/repo-size/DarkLegendHyper/SakuraMD-Media?style=flat-square&label=size&color=A78BFA&labelColor=161027&logo=package&logoColor=A78BFA" /></a> |
-| 🎤 **VoiceReply-Bot** | JS bot that listens, then answers out loud | <a href="https://github.com/DarkLegendHyper/VoiceReply-Bot"><img alt="stars" src="https://img.shields.io/github/stars/DarkLegendHyper/VoiceReply-Bot?style=flat-square&label=stars&color=FFD166&labelColor=161027&logo=githubstars&logoColor=FFD166" /> <img alt="code" src="https://img.shields.io/github/languages/DarkLegendHyper/VoiceReply-Bot?style=flat-square&label=code&color=FF7AB6&labelColor=161027&logo=javascript&logoColor=FF7AB6" /></a> |
-| ✨ **Gemini-Ai** | chat bot on Google's Gemini Pro API — answers, code, ideas | <a href="https://github.com/DarkLegendHyper/Gemini-Ai"><img alt="pushed" src="https://img.shields.io/github/last-commit/DarkLegendHyper/Gemini-Ai?style=flat-square&label=pushed&color=5BE1FF&labelColor=161027&logo=git&logoColor=5BE1FF" /> <img alt="code" src="https://img.shields.io/github/languages/DarkLegendHyper/Gemini-Ai?style=flat-square&label=code&color=FF7AB6&labelColor=161027&logo=javascript&logoColor=FF7AB6" /></a> |
-| ˖ ° **this profile** | the repo you're reading right now | <a href="https://github.com/DarkLegendHyper/DarkLegendHyper"><img alt="thanks for the star" src="https://img.shields.io/github/stars/DarkLegendHyper/DarkLegendHyper?style=flat-square&label=thanks%20for%20the%20star&color=FF7AB6&labelColor=161027&logo=githubstars&logoColor=FF7AB6" /></a> |
-
-<sub>badge numbers come straight from the GitHub API, so this table never goes stale ˗ˏˋ ♡ ˎˊ</sub>
-
-<p align="center"><img src="assets/divider.png" width="900" alt="" /></p>
 
 <h2 align="center">⛩️ &nbsp;Side&nbsp;quests&nbsp; ( ˘ ³˘)♥</h2>
 
