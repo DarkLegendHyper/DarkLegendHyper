@@ -159,7 +159,7 @@ const me = {
   <a href="https://github.com/DarkLegendHyper/SakuraMD-Media"><img src="https://img.shields.io/badge/now-SakuraMD--Media-FFD166?style=for-the-badge&labelColor=161027&color=FFD166&logo=markdown&logoColor=FFFFFF" alt="now building" /></a>
 </p>
 
-<p align="center">˖ ° ✧ <b>made in Anuradhapura with ♡, strong milk tea and far too many anime OSTs</b> ✧ ° ˖</p>
+<p align="center">˖ ° ✧ <b> ♡, strong milk tea and far too many anime OSTs</b> ✧ ° ˖</p>
 
 <p align="center"><sub>sakura-at-night build &middot; 2026.09 &middot; <code> ˗ˏˋ ♡ ˎˊ </code> thanks for scrolling</sub></p>
 
